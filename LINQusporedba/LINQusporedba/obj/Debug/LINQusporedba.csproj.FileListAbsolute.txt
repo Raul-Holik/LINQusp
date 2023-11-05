@@ -1,0 +1,8 @@
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\bin\Debug\LINQusporedba.exe.config
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\bin\Debug\LINQusporedba.exe
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\bin\Debug\LINQusporedba.pdb
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\obj\Debug\LINQusporedba.csproj.AssemblyReference.cache
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\obj\Debug\LINQusporedba.csproj.SuggestedBindingRedirects.cache
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\obj\Debug\LINQusporedba.csproj.CoreCompileInputs.cache
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\obj\Debug\LINQusporedba.exe
+C:\Users\Osoba\Documents\Skola\LINQusporedba\LINQusporedba\obj\Debug\LINQusporedba.pdb
